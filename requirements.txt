@@ -1,0 +1,10 @@
+flask # the Webserver
+flask-smorest # the API
+python-dotenv # 
+marshmallow # Validate the data received from the client
+sqlalchemy 
+flask-sqlalchemy 
+flask-jwt-extended
+passlib
+flask-cors
+gunicorn
